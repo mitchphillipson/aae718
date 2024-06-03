@@ -1,7 +1,5 @@
 | Name | 
 | ---  | 
 | Mitch Phillipson | 
-
-| Name |
-| ---  |
+| This is another name |
 | Xuening Wei |
