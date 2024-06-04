@@ -1,5 +1,4 @@
 | Name | 
-
 |---|
 | Tianyi Song  | 
 | Mitch Phillipson | 
@@ -7,6 +6,7 @@
 | Ziyi Su|
 | David Heinritz |
 | Xuening Wei |
+| Xinyi Xie |
 | Yao Peng |
 | Zhiying Chen |
 | Jesmyn Zhang | 
