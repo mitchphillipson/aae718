@@ -6,5 +6,6 @@
 | Ziyi Su|
 | David Heinritz |
 | Xuening Wei |
-| Cassie Shi|
+| [Cassie Shi](https://github.com/CassieShi00)|
+|
 
