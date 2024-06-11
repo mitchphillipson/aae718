@@ -1,8 +1,9 @@
 
 | Name | 
-|---|
-| Tianyi Song  | 
+| ---  | 
 | Mitch Phillipson | 
+| Katie Strader | 
+| Tianyi Song  | 
 | This is another name |
 | Ziyi Su|
 | David Heinritz |
@@ -12,6 +13,4 @@
 | Xinyi Xie |
 | Yao Peng |
 | Zhiying Chen |
-| Jesmyn Zhang | 
-
-
+| Jesmyn Zhang |
