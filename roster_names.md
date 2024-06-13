@@ -1,3 +1,4 @@
+<<<<<<< main
 | Name | 
 | ---  | 
 | Mitch Phillipson | 
@@ -6,4 +7,5 @@
 | David Heinritz |
 | Xuening Wei |
 | liyuxi |
+>>>>>>> main
 
