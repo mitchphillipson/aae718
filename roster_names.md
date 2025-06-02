@@ -7,3 +7,4 @@
 | Lincoln Miller |
 | Hunter Downey |
 | Quinn Boerger |
+| Madeline Vukovich |
