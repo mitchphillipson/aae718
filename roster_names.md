@@ -9,3 +9,5 @@
 | Quinn Boerger |
 | Fake Name | 
 | Kailing Li |
+| Madeline Vukovich |
+| Owen Hirsch|
