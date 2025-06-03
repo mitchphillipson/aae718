@@ -2,9 +2,6 @@
 | Name | 
 | ---  | 
 | Mitch Phillipson | 
-| Another Name |
-| A third name |
-| KT |
 | AL |
 | Charles Voigt |
 | William Jhong |
