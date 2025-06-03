@@ -11,6 +11,8 @@
 | Kailing Li |
 | Madeline Vukovich |
 | Owen Hirsch|
+| Jason Luo|
 | Gary Sun|
 | Caroline Kuo|
 | Ellie Capra |
+
