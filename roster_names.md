@@ -2,10 +2,10 @@
 | Name | 
 | ---  | 
 | Mitch Phillipson | 
-| A fake student appears! |
-| A third fake student |
 | Yesang Cho | 
 | James Dietmann |
 | Yuxin Wen |
+| False Student |
+| Another False Student |
 | Yu Zhang |
 | Xinyi An |
