@@ -7,5 +7,5 @@
 | Yesang Cho | 
 | James Dietmann |
 | Yuxin Wen |
-| A fake student |
+| Yu Zhang |
 | Xinyi An |
